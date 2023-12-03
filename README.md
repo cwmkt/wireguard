@@ -12,3 +12,11 @@
 
 <hr />
 <hr />
+
+<details>Instalação WireGuard</details>
+<summary>Install VPS Ubuntu</summary>
+
+```bash
+wget https://notthebe.ee/vpn -O bootstrap.sh && bash bootstrap.sh
+```
+### Preencha com as infomações solicitadas
