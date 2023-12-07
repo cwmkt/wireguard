@@ -15,7 +15,7 @@
 
 ![image](https://github.com/cwmkt/wireguard/assets/34479816/5b6e1b8f-154a-47dd-a09a-ca191cd93a14)
 
-### Instalação com Docker
+### 1- Instalação Docker
 
 Se você ainda não instalou o Docker, instale-o executando:
 
@@ -28,7 +28,7 @@ exit
 ```
 Faça login novamente!
 
-### Inicie o WireGuard
+### 2- Inicie o WireGuard
 Para instalar e executar automaticamente o wg-easy, basta executar:
 
 ```bash
@@ -47,7 +47,7 @@ docker run -d \
   weejewel/wg-easy
 ```
 
-💡 Substitua `SEU_SERVER_IP` pelo seu IP WAN ou um nome de host DNS dinâmico.
+💡 Substitua `SEU_SERVER_IP` pelo seu IP WAN ou um nome de host DNS dinâmico.<br>
 💡 Substitua `SUA_ADMIN_PASSWORD` por uma senha para fazer login na interface da web.
 
-pronto! Agora só acessar o painel pelo endereço `http://0.0.0.0:51821`
+Pronto!✅ Agora só acessar o painel pelo endereço `http://0.0.0.0:51821`
