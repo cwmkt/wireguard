@@ -17,7 +17,7 @@
 
 ### 1- Instalação Docker
 
-Se você ainda não instalou o Docker, instale-o executando:
+Se você ainda não instalou o Docker, instale-o executando o comando abaixo:
 
 ```bash
 curl -sSL https://get.docker.com | sh
